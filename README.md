@@ -1,5 +1,16 @@
 ### Hi, I'm Blaine Burke 👋
-Im a final year student currently doing a bachelor's degree in Software Development at the Galway Mayo Institute of Technology. 
+I am a Graduate Software Developer from GMIT with a bachelor's of science in software development.
+
+Throughout the course of college, I have used many languages including :
+Python, Java, C, C++, C#, HTML, JavaScript, CSS, Ruby on Rails, React, Git, etc.
+
+I have used several different frameworks for different mobile and web applications such as :
+Node, Flask, Ionic, etc.
+
+I also have experience using Cloud Service Providers which include :
+AWS, Google Cloud, Microsoft Azure, etc.
+
+I also have used the Unity game engine to create 2D, 3D and Virtual Reality Games.
 
 Find me on [linkedin](https://www.linkedin.com/in/blaine-burke-374266179/).
 
