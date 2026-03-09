@@ -9,8 +9,7 @@
 
 <p align="center">
   <a href="https://burkeblaine1999.github.io/" target="_blank">🌐 Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/blaine-burke-374266179/" target="_blank">💼 LinkedIn</a> &nbsp;·&nbsp;
-  <a href="mailto:BlaineBurke1999@gmail.com">📧 Email</a>
+  <a href="https://www.linkedin.com/in/blaine-burke-374266179/" target="_blank">💼 LinkedIn</a> &nbsp;
 </p>
 
 ---
